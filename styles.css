@@ -61,3 +61,13 @@ p {
     margin-left: auto;
     margin-right: auto;
   }
+.video-title {
+  padding: 10px;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
